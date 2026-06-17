@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "stage.cotue.com.br",
+    "storefront_hostname": "cotue.com.br",
     "content_for_index": []
   }
 }
