@@ -10,6 +10,8 @@
 {
   "current": {
     "storefront_hostname": "cotue.com.br",
+    "custom_redirects": "",
+    "integrate_with_customer_accounts": true,
     "content_for_index": []
   }
 }
